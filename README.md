@@ -1,2 +1,1 @@
-# piranah
-이브와 2023. AI 보이스피싱 방지 프로젝트
+# 2023 Evewa A.I Voice Phishing Prevention Project based on KoBERT Machine Learning
